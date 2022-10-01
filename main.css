@@ -100,7 +100,7 @@ main {
 }
 
 .description {
-    background-image: url(/images/bg-curve-mobile.svg);
+    background-image: url(./images/bg-curve-mobile.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 500% 100%;
@@ -306,7 +306,7 @@ footer .contact {
     }
 
     .description {
-        background-image: url(/images/bg-curve-desktop.svg);
+        background-image: url(./images/bg-curve-desktop.svg);
         padding: 0 60px 100px;
         flex-direction: row;
         gap: 20px;
